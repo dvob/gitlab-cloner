@@ -9,7 +9,7 @@ root_group/sub_group2/sub_group3/project3
 ```
 Then `gitlab-cloner` can be invoked as follows:
 ```
-gitlab-cloner root_group
+gitlab-cloner clone root_group
 ```
 
 Which produces the follwoing local directory structure:
